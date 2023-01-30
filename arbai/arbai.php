@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://example.com
+ * @link              https://ytmemo.com
  * @since             1.0.0
  * @package           Arb_Ai
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
- * Plugin URI:        http://example.com/arbai-uri/
+ * Plugin Name:       ArbAI
+ * Plugin URI:        https://ytmemo.com/arbai-uri/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            Your Name or Your Company
- * Author URI:        http://example.com/
+ * Author URI:        https://ytmemo.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       arbai

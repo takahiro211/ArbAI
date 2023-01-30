@@ -3,7 +3,7 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       http://example.com
+ * @link       https://ytmemo.com
  * @since      1.0.0
  *
  * @package    Arb_Ai
@@ -18,7 +18,7 @@
  *
  * @package    Arb_Ai
  * @subpackage Arb_Ai/public
- * @author     Your Name <email@example.com>
+ * @author     YOKOHAMA RYUSEI <r.y.u.s.e.i_yokohama@ytmemo.com>
  */
 class Arb_Ai_Public {
 

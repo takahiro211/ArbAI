@@ -23,6 +23,7 @@
  * @package    Arb_Ai
  * @subpackage Arb_Ai/includes
  * @author     YOKOHAMA RYUSEI <r.y.u.s.e.i_yokohama@ytmemo.com>
+ */
 class Arb_Ai_i18n {
 
 
